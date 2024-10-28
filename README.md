@@ -24,7 +24,7 @@ This project is a real-time location tracking application built using Node.js, S
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/repo-name.git](https://github.com/Code-With-Anthony/RealTimeTracking.git
+   git clone https://github.com/Code-With-Anthony/RealTimeTracking.git
    ```
    
 2. **Navigate to the Project Directory**:
