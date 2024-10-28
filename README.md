@@ -24,7 +24,7 @@ This project is a real-time location tracking application built using Node.js, S
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/repo-name.git
+   git clone https://github.com/yourusername/repo-name.git](https://github.com/Code-With-Anthony/RealTimeTracking.git
    ```
    
 2. **Navigate to the Project Directory**:
@@ -39,10 +39,15 @@ This project is a real-time location tracking application built using Node.js, S
 
 4. **Run the Application**:
    ```bash
-   npm start
+   npm run dev
    ```
-
-5. **Access the App**:
+   
+5. **Additional Installation of Dev Dependency**
+   ```bash
+   npm install --save-dev nodemon
+   ```
+   
+6. **Access the App**:
    Open your web browser and navigate to `http://localhost:3000`.
 
 ## Usage
@@ -61,4 +66,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 
 ### Notes:
-- Replace `yourusername` and `repo-name` in the installation instructions with your actual GitHub username and repository name.
+- If you want to contribue then you can connect me as well on any social media account or on email and do not push code directly on main branch insted work on the sub branch and take a pull from latest main branch and then generate a pull request from your branch after the updates/changes you are contributing is done. Thanks!
